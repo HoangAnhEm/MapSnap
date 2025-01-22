@@ -12,12 +12,12 @@
 ## Demo
 
 <div style="display: flex; overflow-x: auto; gap: 10px;">
-  <img src="demo/demo1.png" alt="Ảnh 1" style="width: 200px; height: auto;">
-  <img src="demo/demo2.png" alt="Ảnh 2" style="width: 200px; height: auto;">
-  <img src="demo/demo3.png" alt="Ảnh 3" style="width: 200px; height: auto;">
-  <img src="demo/demo4.png" alt="Ảnh 1" style="width: 200px; height: auto;">
-  <img src="demo/demo5.png" alt="Ảnh 2" style="width: 200px; height: auto;">
-  <img src="demo/demo6.png" alt="Ảnh 3" style="width: 200px; height: auto;">
+  <img src="demo/demo1.png" alt="Ảnh 1" style="width: 250px; height: auto;">
+  <img src="demo/demo2.png" alt="Ảnh 2" style="width: 250px; height: auto;">
+  <img src="demo/demo3.png" alt="Ảnh 3" style="width: 250px; height: auto;">
+  <img src="demo/demo4.png" alt="Ảnh 1" style="width: 250px; height: auto;">
+  <img src="demo/demo5.png" alt="Ảnh 2" style="width: 250px; height: auto;">
+  <img src="demo/demo6.png" alt="Ảnh 3" style="width: 250px; height: auto;">
 </div>
 
 Chi tiết hơn về tính năng app: https://www.youtube.com/watch?v=PRvlo7mVIQQ&t=31s
